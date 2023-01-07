@@ -1,5 +1,14 @@
+import React from "react";
+import NavBar2 from "./components/NavBar";
+import Grid from "./components/Grid";
+
 function App() {
-  return <div className="text-3xl font-bold underline"> Hello World </div>;
+  return (
+    <div>
+      <NavBar2 />
+      <Grid />
+    </div>
+  );
 }
 
 export default App;
