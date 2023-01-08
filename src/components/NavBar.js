@@ -13,7 +13,7 @@ const NavBar = () => {
           >
             <img src={Logo} alt="logo" className="w-10 h-10 mr-2 md:mr-3 " />
             <span className="font-roboto self-center text-md font-semibold whitespace-nowrap text-gray-700 uppercase md:text-xl hover:text-gray-600">
-              Nazy's Collection
+              Nazy's Collections
             </span>
           </a>
           <div className="flex items-center justify-between">

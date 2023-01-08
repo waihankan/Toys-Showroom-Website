@@ -4,6 +4,8 @@ import kaws from "../assests/kaws.webp";
 import kaws2 from "../assests/kaws2.webp";
 import mirror from "../assests/mirror.webp";
 import Pagination from "../components/Pagination";
+import Footer from "../components/Footer";
+import { FOCUSABLE_SELECTOR } from "@testing-library/user-event/dist/utils";
 
 const Grid = () => {
   return (
@@ -59,10 +61,11 @@ const Grid = () => {
             <ImageCard image={mirror} />
           </div>
         </div>
-        <div className="py-10">
+        <div className="pt-10">
           <Pagination />
         </div>
       </div>
+      <Footer />
     </div>
   );
 };

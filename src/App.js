@@ -1,11 +1,12 @@
 import React from "react";
-import NavBar2 from "./components/NavBar";
+import NavBar from "./components/NavBar";
 import Grid from "./components/Grid";
+import Footer from "./components/Footer";
 
 function App() {
   return (
     <div>
-      <NavBar2 />
+      <NavBar />
       <Grid />
     </div>
   );
