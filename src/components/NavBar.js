@@ -6,8 +6,8 @@ import account from "../assests/account-logo.png";
 const NavBar = () => {
   return (
     <div>
-      <nav className="drop-shadow-lg py-5 bg-white px-2 lg:py-8 fixed w-full z-20 top-0 left-0 border-b border-gray-200">
-        <div className="container px-4 mx-auto flex flex-wrap items-center justify-between md:px-7">
+      <nav className="drop-shadow-lg py-5 bg-white px-2 lg:py-7 fixed w-full z-20 top-0 left-0 border-b border-gray-200">
+        <div className="container px-4 mx-auto flex flex-wrap items-center justify-between md:px-5">
           <a
             href="/"
             className="flex items-center hover:scale-105 ease-out duration-200"
