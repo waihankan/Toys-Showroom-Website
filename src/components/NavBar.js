@@ -19,11 +19,10 @@ const NavBar = () => {
           </a>
           <div className="flex items-center justify-between">
             <ul>
-              <li
-                className="hidden md:block py-2 pl-3 pr-4 text-gray font-roboto text-lg font-medium cursor-pointer 
-              hover:underline hover:underline-offset-8 hover:scale-105 ease-out duration-200 hover:text-gray-700"
-              >
+              <li>
                 <ScrollLink
+                  className="hidden md:block py-2 pl-3 pr-4 text-gray font-roboto text-lg font-medium cursor-pointer 
+              hover:underline hover:underline-offset-8 hover:scale-105 ease-out duration-200 hover:text-gray-700"
                   to="about"
                   spy={true}
                   smooth={true}
@@ -35,11 +34,10 @@ const NavBar = () => {
               </li>
             </ul>
             <ul>
-              <li
-                className="hidden md:block py-2 pl-3 pr-4 text-gray font-roboto text-lg font-medium cursor-pointer
-              hover:underline hover:underline-offset-8 hover:scale-105 ease-out duration-200 hover:text-gray-700"
-              >
+              <li>
                 <ScrollLink
+                  className="hidden md:block py-2 pl-3 pr-4 text-gray font-roboto text-lg font-medium cursor-pointer
+              hover:underline hover:underline-offset-8 hover:scale-105 ease-out duration-200 hover:text-gray-700"
                   to="about"
                   spy={true}
                   smooth={true}
