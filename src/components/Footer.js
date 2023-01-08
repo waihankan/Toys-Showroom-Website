@@ -6,7 +6,7 @@ import FooterLogo from "../assests/footer-logo.png";
 
 const Footer = () => {
   return (
-    <div className="container flex flex-col justify-center pt-4">
+    <div className="container flex flex-col justify-center pt-4" id="about">
       <h1 className="text-center font-roboto uppercase text-gray-800 text-sm tracking-tight font-semibold lg:text-lg">
         About Me
       </h1>
