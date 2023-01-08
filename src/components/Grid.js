@@ -9,7 +9,7 @@ import { FOCUSABLE_SELECTOR } from "@testing-library/user-event/dist/utils";
 
 const Grid = () => {
   return (
-    <div className="bg-gray-100 min-h-screen mt-16 lg:mt-28 mx-auto max-w-full lg:max-w-[78%] px-6 sm:px-20 py-12">
+    <div className="bg-gray-100 min-h-screen mt-16 lg:mt-28 mx-auto max-w-full lg:max-w-[100%] px-6 sm:px-20 py-12">
       <div className="container mx-auto">
         <div className="grid grid-cols-2 gap-4 lg:grid-cols-4 md:gap-11">
           <div className="bg-white mt-3 lg:mt-7">
