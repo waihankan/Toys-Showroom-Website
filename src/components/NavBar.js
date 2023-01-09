@@ -5,12 +5,12 @@ import account from "../assests/account-logo.png";
 
 const NavBar = () => {
   return (
-    <div>
+    <div className="home-top">
       <nav className="drop-shadow-lg py-5 bg-white px-2 lg:py-7 fixed w-full z-20 top-0 left-0 border-b border-gray-200">
-        <div className="container px-4 mx-auto flex flex-wrap items-center justify-between md:px-5">
+        <div className="container cursor-pointer px-4 mx-auto flex flex-wrap items-center justify-between md:px-5">
           <a
             href="/"
-            className="flex items-center hover:scale-105 ease-out duration-200"
+            className="flex hover:scale-[103%] transition duration-300 ease-in-out"
           >
             <img src={Logo} alt="logo" className="w-10 h-10 mr-2 md:mr-3 " />
             <span className="font-roboto self-center text-md font-semibold whitespace-nowrap text-gray-700 uppercase md:text-xl hover:text-gray-600">
@@ -50,7 +50,7 @@ const NavBar = () => {
             </ul>
             <ul>
               <li className="block py-2 pl-3 pr-0 text-gray hover:scale-105 ease-out duration-200">
-                <a href="#" className="flex items-center ">
+                <a href="not-working-yet" className="flex items-center ">
                   <img
                     src={account}
                     alt="account"

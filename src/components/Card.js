@@ -1,29 +1,32 @@
 import React from "react";
+import { Link } from "react-router-dom";
 
-const Card = ({ image }) => {
+const Card = ({ image, slug, title, description, details }) => {
+  const handleClick = () => {
+    console.log("clicked");
+  };
+
   return (
     <div className="">
       <div className="relative overflow-hidden pb-2/3">
-        <a href="#">
+        <Link to={`products/${slug}`} onClick={handleClick}>
           <img
-            className="absolute h-full w-full object-cover object-top"
+            className="absolute h-full w-full object-cover object-top hover:opacity-80 transition duration-300 ease-in-out"
             src={image}
             alt="showroom-image-not-found"
           />
-        </a>
+        </Link>
       </div>
       <div className="pt-2">
-        <a href="#">
-          <h5 class="pl-2 text-gray-900 uppercase text-left tracking-tighter font-roboto text-sm font-semibold sm:text-md sm:pl-3">
-            Doll E 2 Creation
-          </h5>
-        </a>
+        <h5 class="pl-2 text-gray-900 uppercase text-left tracking-tighter font-roboto text-sm font-semibold sm:text-md sm:pl-3">
+          {title}
+        </h5>
         <p class="pl-2 font-roboto font-light tracking-normal text-gray-600 text-left text-sm sm:text-md sm:pl-3 ">
-          Sitting
+          {description}
         </p>
         <div className="flex min-w-full justify-end">
-          <a
-            href="#"
+          <Link
+            to={`products/${slug}`}
             className="font-roboto inline-flex items-center text-xs font-semibold text-center mr-2 mb-2.5 mt-1 pr-2 text-black bg-white border-2 border-gray-500 rounded-md px-1 py-0.5 sm:px-3 sm:py-2 sm:mr-4 sm:mt-1 sm:mb-3
             hover:bg-gray-900 hover:text-white hover:border-gray-900 transition-colors duration-300 ease-in-out"
           >
@@ -41,7 +44,7 @@ const Card = ({ image }) => {
                 clip-rule="evenodd"
               ></path>
             </svg>
-          </a>
+          </Link>
         </div>
       </div>
     </div>

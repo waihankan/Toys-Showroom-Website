@@ -7,7 +7,7 @@ import FooterLogo from "../assests/footer-logo.png";
 const Footer = () => {
   return (
     <div
-      className="container flex flex-col justify-center pt-4 mx-auto"
+      className="container flex flex-col justify-center pt-4 mx-auto bg-gray-100 max-w-[100%]"
       id="about"
       mx-auto
     >
@@ -19,7 +19,7 @@ const Footer = () => {
         spent hours organizing and displaying my toy figures and dolls,
         constantly seeking out new pieces to add to my collection.
       </p>
-      <div className="container flex flex-col justify-center mt-4 lg:mt-8">
+      <div className="container flex flex-col justify-center mt-4 lg:mt-8 mx-auto">
         <h2 className="text-center font-roboto text-sm font-semibold tracking-tight lg:text-lg">
           Follow Me On Social Media
         </h2>

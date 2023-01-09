@@ -1,0 +1,30 @@
+{
+  "products": [
+    {
+      "productId": "WhiteKaws",
+      "slug": "kaws",
+      "image": "https://cdn.shopify.com/s/files/1/0044/5480/9715/products/KAWS_CBM_photo_S_4_600x.jpg?v=1640861379",
+      "title": "Kaws Companion",
+      "description": "Mom and Daughter",
+      "details": "Limited Edition"
+    },
+
+    {
+      "productId": "BlackKaws",
+      "slug": "kaws2",
+      "image": "https://cdn.shopify.com/s/files/1/0044/5480/9715/products/KAWS_CBM_photo_S_8_1667x1667.jpg?v=1640861335",
+      "title": "Kaws Companion",
+      "description": "Hugs",
+      "details": "Limited Edition"
+    },
+
+    {
+      "productId": "Mirror",
+      "slug": "mirror",
+      "image": "https://cdn.shopify.com/s/files/1/0044/5480/9715/products/AR_Photo_0429_24_600x.jpg?v=1593740657",
+      "title": "Ukraine",
+      "description": "Holding Cucumber",
+      "details": "Limited Edition"
+    }
+  ]
+}
