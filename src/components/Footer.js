@@ -14,7 +14,7 @@ const Footer = () => {
       <h1 className="text-center font-roboto uppercase text-gray-800 text-sm tracking-tight font-semibold lg:text-lg">
         About Me
       </h1>
-      <p className="mt-1 text-center font-poppins font-light text-gray-500 max-w-[85%] mx-auto text-sm md:max-w-[75%] lg:max-w-[55%] lg:text-sm">
+      <p className="mt-1 text-center font-poppins font-light text-gray-500 max-w-[85%] mx-auto text-sm md:max-w-[75%] lg:max-w-[40%] lg:text-sm">
         I have always been fascinated by toy collections and art. As a child, I
         spent hours organizing and displaying my toy figures and dolls,
         constantly seeking out new pieces to add to my collection.

@@ -6,7 +6,14 @@
       "image": "https://cdn.shopify.com/s/files/1/0044/5480/9715/products/KAWS_CBM_photo_S_4_600x.jpg?v=1640861379",
       "title": "Kaws Companion",
       "description": "Mom and Daughter",
-      "details": "Limited Edition"
+      "details": {
+        "size": "Medium",
+        "color": "White",
+        "material": "Plastic",
+        "brand": "Kaws",
+        "weight": "1.5kg",
+        "purchased date": "2021-01-01"
+      }
     },
 
     {
@@ -15,16 +22,31 @@
       "image": "https://cdn.shopify.com/s/files/1/0044/5480/9715/products/KAWS_CBM_photo_S_8_1667x1667.jpg?v=1640861335",
       "title": "Kaws Companion",
       "description": "Hugs",
-      "details": "Limited Edition"
+      "details": {
+        "size": "Medium",
+        "color": "White",
+        "material": "Plastic, Resin, and Wood",
+        "brand": "Kaws",
+        "weight": "1.5kg",
+        "purchased date": "2021-01-01",
+        "description": "American artist Andy Rementer in collaboration with AllRightsReserved presents《MEET Andy Rementer PROJECT》, releasing an original limited-edition sculpture series titled “Downtown”, where five colorful characters seem to have stepped directly out of the artist's oil paintings to take on a new dimensionality."
+      }
     },
 
     {
       "productId": "Mirror",
       "slug": "mirror",
-      "image": "https://cdn.shopify.com/s/files/1/0044/5480/9715/products/AR_Photo_0429_24_600x.jpg?v=1593740657",
+      "image": "https://images.pexels.com/photos/15045086/pexels-photo-15045086.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
       "title": "Ukraine",
       "description": "Holding Cucumber",
-      "details": "Limited Edition"
+      "details": {
+        "size": "Medium",
+        "color": "White",
+        "material": "Plastic",
+        "brand": "Kaws",
+        "weight": "1.5kg",
+        "purchased date": "2021-01-01"
+      }
     }
   ]
 }
