@@ -49,6 +49,190 @@
         "purchased date": "2021-01-01",
         "description": "Pexels provides high quality and completely free stock photos licensed under the Pexels license. All photos are nicely tagged, searchable and also easy to discover through our discover pages"
       }
+    },
+    {
+      "productId": "WhiteKaws",
+      "slug": "kaws",
+      "image": "https://cdn.shopify.com/s/files/1/0044/5480/9715/products/KAWS_CBM_photo_S_4_600x.jpg?v=1640861379",
+      "title": "Kaws Companion",
+      "description": "Mom and Daughter",
+      "details": {
+        "size": "Medium",
+        "color": "White",
+        "material": "Plastic",
+        "brand": "Kaws",
+        "weight": "1.5kg",
+        "purchased date": "2021-01-01",
+        "description": "Brian Donnelly is currently best known as the artist KAWS. KAWS is a New York-based artist who has made a name out of him designing limited edition toys and clothing. He is also a world-renowned artist who exhibits in museums and galleries internationally."
+      }
+    },
+
+    {
+      "productId": "BlackKaws",
+      "slug": "kaws2",
+      "image": "https://cdn.shopify.com/s/files/1/0044/5480/9715/products/KAWS_CBM_photo_S_8_1667x1667.jpg?v=1640861335",
+      "title": "Kaws Companion",
+      "description": "Hugs",
+      "details": {
+        "size": "Medium",
+        "color": "White",
+        "material": "Plastic, Resin, and Wood",
+        "brand": "Kaws",
+        "weight": "1.5kg",
+        "purchased date": "2021-01-01",
+        "description": "American artist Andy Rementer in collaboration with AllRightsReserved presents《MEET Andy Rementer PROJECT》, releasing an original limited-edition sculpture series titled “Downtown”, where five colorful characters seem to have stepped directly out of the artist's oil paintings to take on a new dimensionality."
+      }
+    },
+
+    {
+      "productId": "Mirror",
+      "slug": "mirror",
+      "image": "https://images.pexels.com/photos/15045086/pexels-photo-15045086.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "title": "Gril with a Hat",
+      "description": "Pexels Photo",
+      "details": {
+        "size": "Medium",
+        "color": "White",
+        "material": "Plastic",
+        "brand": "Kaws",
+        "weight": "1.5kg",
+        "purchased date": "2021-01-01",
+        "description": "Pexels provides high quality and completely free stock photos licensed under the Pexels license. All photos are nicely tagged, searchable and also easy to discover through our discover pages"
+      }
+    },
+    {
+      "productId": "WhiteKaws",
+      "slug": "kaws",
+      "image": "https://cdn.shopify.com/s/files/1/0044/5480/9715/products/KAWS_CBM_photo_S_4_600x.jpg?v=1640861379",
+      "title": "Kaws Companion",
+      "description": "Mom and Daughter",
+      "details": {
+        "size": "Medium",
+        "color": "White",
+        "material": "Plastic",
+        "brand": "Kaws",
+        "weight": "1.5kg",
+        "purchased date": "2021-01-01",
+        "description": "Brian Donnelly is currently best known as the artist KAWS. KAWS is a New York-based artist who has made a name out of him designing limited edition toys and clothing. He is also a world-renowned artist who exhibits in museums and galleries internationally."
+      }
+    },
+
+    {
+      "productId": "BlackKaws",
+      "slug": "kaws2",
+      "image": "https://cdn.shopify.com/s/files/1/0044/5480/9715/products/KAWS_CBM_photo_S_8_1667x1667.jpg?v=1640861335",
+      "title": "Kaws Companion",
+      "description": "Hugs",
+      "details": {
+        "size": "Medium",
+        "color": "White",
+        "material": "Plastic, Resin, and Wood",
+        "brand": "Kaws",
+        "weight": "1.5kg",
+        "purchased date": "2021-01-01",
+        "description": "American artist Andy Rementer in collaboration with AllRightsReserved presents《MEET Andy Rementer PROJECT》, releasing an original limited-edition sculpture series titled “Downtown”, where five colorful characters seem to have stepped directly out of the artist's oil paintings to take on a new dimensionality."
+      }
+    },
+
+    {
+      "productId": "Mirror",
+      "slug": "mirror",
+      "image": "https://images.pexels.com/photos/15045086/pexels-photo-15045086.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "title": "Gril with a Hat",
+      "description": "Pexels Photo",
+      "details": {
+        "size": "Medium",
+        "color": "White",
+        "material": "Plastic",
+        "brand": "Kaws",
+        "weight": "1.5kg",
+        "purchased date": "2021-01-01",
+        "description": "Pexels provides high quality and completely free stock photos licensed under the Pexels license. All photos are nicely tagged, searchable and also easy to discover through our discover pages"
+      }
+    },
+    {
+      "productId": "WhiteKaws",
+      "slug": "kaws",
+      "image": "https://cdn.shopify.com/s/files/1/0044/5480/9715/products/KAWS_CBM_photo_S_4_600x.jpg?v=1640861379",
+      "title": "Kaws Companion",
+      "description": "Mom and Daughter",
+      "details": {
+        "size": "Medium",
+        "color": "White",
+        "material": "Plastic",
+        "brand": "Kaws",
+        "weight": "1.5kg",
+        "purchased date": "2021-01-01",
+        "description": "Brian Donnelly is currently best known as the artist KAWS. KAWS is a New York-based artist who has made a name out of him designing limited edition toys and clothing. He is also a world-renowned artist who exhibits in museums and galleries internationally."
+      }
+    },
+
+    {
+      "productId": "BlackKaws",
+      "slug": "kaws2",
+      "image": "https://cdn.shopify.com/s/files/1/0044/5480/9715/products/KAWS_CBM_photo_S_8_1667x1667.jpg?v=1640861335",
+      "title": "Kaws Companion",
+      "description": "Hugs",
+      "details": {
+        "size": "Medium",
+        "color": "White",
+        "material": "Plastic, Resin, and Wood",
+        "brand": "Kaws",
+        "weight": "1.5kg",
+        "purchased date": "2021-01-01",
+        "description": "American artist Andy Rementer in collaboration with AllRightsReserved presents《MEET Andy Rementer PROJECT》, releasing an original limited-edition sculpture series titled “Downtown”, where five colorful characters seem to have stepped directly out of the artist's oil paintings to take on a new dimensionality."
+      }
+    },
+
+    {
+      "productId": "Mirror",
+      "slug": "mirror",
+      "image": "https://images.pexels.com/photos/15045086/pexels-photo-15045086.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "title": "Gril with a Hat",
+      "description": "Pexels Photo",
+      "details": {
+        "size": "Medium",
+        "color": "White",
+        "material": "Plastic",
+        "brand": "Kaws",
+        "weight": "1.5kg",
+        "purchased date": "2021-01-01",
+        "description": "Pexels provides high quality and completely free stock photos licensed under the Pexels license. All photos are nicely tagged, searchable and also easy to discover through our discover pages"
+      }
+    },
+
+    {
+      "productId": "BlackKaws",
+      "slug": "kaws2",
+      "image": "https://cdn.shopify.com/s/files/1/0044/5480/9715/products/KAWS_CBM_photo_S_8_1667x1667.jpg?v=1640861335",
+      "title": "Kaws Companion",
+      "description": "Hugs",
+      "details": {
+        "size": "Medium",
+        "color": "White",
+        "material": "Plastic, Resin, and Wood",
+        "brand": "Kaws",
+        "weight": "1.5kg",
+        "purchased date": "2021-01-01",
+        "description": "American artist Andy Rementer in collaboration with AllRightsReserved presents《MEET Andy Rementer PROJECT》, releasing an original limited-edition sculpture series titled “Downtown”, where five colorful characters seem to have stepped directly out of the artist's oil paintings to take on a new dimensionality."
+      }
+    },
+
+    {
+      "productId": "Mirror",
+      "slug": "mirror",
+      "image": "https://images.pexels.com/photos/15045086/pexels-photo-15045086.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "title": "Gril with a Hat",
+      "description": "Pexels Photo",
+      "details": {
+        "size": "Medium",
+        "color": "White",
+        "material": "Plastic",
+        "brand": "Kaws",
+        "weight": "1.5kg",
+        "purchased date": "2021-01-01",
+        "description": "Pexels provides high quality and completely free stock photos licensed under the Pexels license. All photos are nicely tagged, searchable and also easy to discover through our discover pages"
+      }
     }
   ]
 }

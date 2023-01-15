@@ -1,5 +1,6 @@
 import React from "react";
 import { Link } from "react-router-dom";
+import { motion } from "framer-motion";
 
 const Card = ({ image, slug, title, description, details }) => {
   const handleClick = () => {
@@ -10,8 +11,10 @@ const Card = ({ image, slug, title, description, details }) => {
     <div className="">
       <div className="relative overflow-hidden pb-2/3">
         <Link to={`products/${slug}`} onClick={handleClick}>
-          <img
-            className="absolute h-full w-full object-cover object-top hover:opacity-80 transition duration-300 ease-in-out"
+          <motion.img
+            whileHover={{ opacity: 0.8, scale: 1.05 }}
+            transition={{ duration: 0.3 }}
+            className="absolute h-full w-full object-cover object-top"
             src={image}
             alt="showroom-image-not-found"
           />

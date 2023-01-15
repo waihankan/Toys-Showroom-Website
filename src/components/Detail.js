@@ -1,5 +1,6 @@
 import React from "react";
 import Divider from "./Divider";
+import { motion } from "framer-motion";
 
 const Detail = ({ image, title, description, details }) => {
   let details_array = [];
@@ -31,13 +32,21 @@ const Detail = ({ image, title, description, details }) => {
     <div className="w-full bg-gray-100">
       <div className="mx-auto flex flex-col pt-[85px] max-w-2xl lg:pt-[160px] bg-gray-100 lg:flex-row lg:max-w-[85%] 2xl:max-w-[55%] min-[2200px]:max-w-[50%] justify-between lg:pb-20">
         <div className="relative overflow-hidden xl:w-[650px] xl:h-[650px] lg:max-xl:h-[600px] lg:max-xl:w-[600px]">
-          <img
+          <motion.img
+            initial={{ x: -100, opacity: 0 }}
+            animate={{ x: 0, opacity: 1 }}
+            transition={{ duration: 1 }}
             className="absoulte h-full w-full object-cover object-top"
             src={image}
             alt="image"
           />
         </div>
-        <div className="mx-auto max-w-lg min-w-[350px] lg:ml-14 min-[2400px]:mr-[10%] min-[2400px]:ml-0 lg:max-w-[350px]">
+        <motion.div
+          initial={{ y: 100, opacity: 0 }}
+          animate={{ y: 0, opacity: 1 }}
+          transition={{ duration: 1 }}
+          className="mx-auto max-w-lg min-w-[350px] lg:ml-14 min-[2400px]:mr-[10%] min-[2400px]:ml-0 lg:max-w-[350px]"
+        >
           <div
             id="title-section"
             className="mt-14 text-center mb-5 lg:mt-5 font-roboto"
@@ -73,7 +82,7 @@ const Detail = ({ image, title, description, details }) => {
             </div>
           </div>
           <hr className="mt-7 mb-8"></hr>
-        </div>
+        </motion.div>
       </div>
     </div>
   );
