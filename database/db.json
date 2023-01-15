@@ -12,7 +12,8 @@
         "material": "Plastic",
         "brand": "Kaws",
         "weight": "1.5kg",
-        "purchased date": "2021-01-01"
+        "purchased date": "2021-01-01",
+        "description": "Brian Donnelly is currently best known as the artist KAWS. KAWS is a New York-based artist who has made a name out of him designing limited edition toys and clothing. He is also a world-renowned artist who exhibits in museums and galleries internationally."
       }
     },
 
@@ -37,15 +38,16 @@
       "productId": "Mirror",
       "slug": "mirror",
       "image": "https://images.pexels.com/photos/15045086/pexels-photo-15045086.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
-      "title": "Ukraine",
-      "description": "Holding Cucumber",
+      "title": "Gril with a Hat",
+      "description": "Pexels Photo",
       "details": {
         "size": "Medium",
         "color": "White",
         "material": "Plastic",
         "brand": "Kaws",
         "weight": "1.5kg",
-        "purchased date": "2021-01-01"
+        "purchased date": "2021-01-01",
+        "description": "Pexels provides high quality and completely free stock photos licensed under the Pexels license. All photos are nicely tagged, searchable and also easy to discover through our discover pages"
       }
     }
   ]
