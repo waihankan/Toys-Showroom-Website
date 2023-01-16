@@ -1,7 +1,8 @@
+import useFirestore from "../hooks/useFirestore";
 import NavBar from "../components/NavBar";
 import Grid from "../components/Grid";
 import Footer from "../components/Footer";
-import useFirestore from "../hooks/useFirestore";
+import ContactUs from "../components/ContactUs";
 
 const HomePage = () => {
   const { docs: collections } = useFirestore("posts");
@@ -16,6 +17,7 @@ const HomePage = () => {
         </div>
       )}
       <Footer />
+      <ContactUs />
     </div>
   );
 };
